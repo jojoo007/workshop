@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "johanna iniguez"
+date: "09/11/19"
 output: html_document
 ---
 
@@ -18,6 +18,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+Once when the snow of the year was beginning to fall,  
+We stopped by a mountain pasture to say, ‘Whose colt?’  
+A little Morgan had one forefoot on the wall,  
+The other curled at his breast. He dipped his head  
+And snorted at us. And then he had to bolt.  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
