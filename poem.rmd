@@ -15,6 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse  
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+  
+All in the golden afternoon  
+Full leisurely we glide;  
+For both our oars, with little skill,  
+By little arms are plied,  
+While little hands make vain pretense  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -30,3 +36,16 @@ And snorted at us. And then he had to bolt.
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+Do you like green eggs and ham?  
+I do not like them, Sam-I-am.  
+I do not like green eggs and ham.  
+Would you like them here or there?  
+I would not like them here or there.  
+I would not like them anywhere.  
+I do not like green eggs and ham.  
+I do not like them, Sam-I-am.  
+Would you like them in a house?  
+Would you like them with a mouse?  
+I do not like them in a house.  
+
